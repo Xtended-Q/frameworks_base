@@ -1222,7 +1222,7 @@ public class PhoneWindowManager implements WindowManagerPolicy {
     private boolean isDozeMode() {
         IDreamManager dreamManager = getDreamManager();
         try {
-            if (dreamManager != null && dreamManager.isDreaming()) {
+            if (dreamManager != null && dreamManager.isDozing()) {
                 return true;
             }
         } catch (RemoteException e) {
