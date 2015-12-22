@@ -349,4 +349,9 @@
     <string name="screen_pinning_toast_custom">To unpin this screen, touch &amp; hold Back button</string>
     <string name="screen_pinning_toast_recents_invisible_custom">To unpin this screen, touch &amp; hold Back button</string>
 
+    <!-- Navigation Bar tile -->
+    <string name="quick_settings_navbar_title">Navigation Bar</string>
+    <string name="accessibility_quick_settings_navbar_on">Navigation bar on</string>
+    <string name="accessibility_quick_settings_navbar_off">Navigation bar off</string>
+
 </resources>
