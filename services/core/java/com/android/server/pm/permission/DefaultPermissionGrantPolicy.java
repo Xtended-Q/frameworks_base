@@ -864,6 +864,10 @@ public final class DefaultPermissionGrantPolicy {
 
         // SystemUI Pulse EQ
         grantSystemFixedPermissionsToSystemPackage("com.android.systemui", userId, PULSE_EQ_PERMISSIONS);
+
+        // Google Chrome
+        grantSystemFixedPermissionsToSystemPackage("com.android.chrome", userId, CONTACTS_PERMISSIONS,
+                STORAGE_PERMISSIONS);
     }
 
     private String getDefaultSystemHandlerActivityPackageForCategory(String category, int userId) {
