@@ -65,7 +65,8 @@ public class PixelPropsUtils {
     private static final Map<String, ArrayList<String>> propsToKeep;
     private static final String[] extraPackagesToChange = {
             "com.android.chrome",
-            "com.breel.wallpapers20"
+            "com.breel.wallpapers20",
+            "com.nhs.online.nhsonline"
     };
 
     private static final String[] streamingPackagesToChange = {
