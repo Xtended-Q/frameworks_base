@@ -108,7 +108,8 @@ public class PixelPropsUtils {
             "com.pubg.newstate",
             "com.vng.pubgmobile",
             "com.rekoo.pubgm",
-            "com.tencent.tmgp.pubgmhd"
+            "com.tencent.tmgp.pubgmhd",
+            "com.tencent.tmgp.sgame"
     };
 
     private static final String[] packagesToKeep = {
