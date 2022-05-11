@@ -96,9 +96,7 @@ public class PixelPropsUtils {
             "com.riotgames.league.wildrift",
             "com.riotgames.league.wildrifttw",
             "com.riotgames.league.wildriftvn",
-            "com.netease.lztgglobal",
-            "com.epicgames.fortnite",
-            "com.epicgames.portal"
+            "com.netease.lztgglobal"
     };
 
     private static final Map<String, Object> propsToChangeMI11;
